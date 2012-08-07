@@ -1,0 +1,27 @@
+{
+  "name": "createjs",
+  "version": "0.0.0",
+  "description": "CreateJS is an easy to use node package which allows you to create folder and file structures.",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": { "create": "index.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpko/createjs.git"
+  },
+  "keywords": [
+    "file",
+    "folder",
+    "structure",
+    "create",
+    "template"
+  ],
+  "author": "kpko",
+  "license": "BSD",
+  "dependencies": {
+    "commander": "~1.0.0"
+  }
+}
