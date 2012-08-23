@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/kpko/createjs.png)](http://travis-ci.org/kpko/createjs)
 createjs
 ========
 
